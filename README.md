@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![FreeK0x00's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreeK0x00&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+The breadth of knowledge determines the width of the attack's surface.
+知识面，决定看到的攻击面有多么的广。
+The depth of knowledge determines the severity of the attack's impact.
+知识链，决定发动的杀伤力有多么的深。  
