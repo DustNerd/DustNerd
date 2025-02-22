@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![FreeK0x00's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreeK0x00&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-- Blog: https://www.anti-rootkit.top (备案中)
