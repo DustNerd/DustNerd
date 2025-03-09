@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dustnerd&theme=prussian" width="97%" height="auto" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DustNerd&theme=prussian" width="97%" height="auto" />
 </div>
 
 <div align="center">
