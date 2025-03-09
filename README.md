@@ -14,7 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![DustNerd's GitHub stats](https://github-readme-stats.vercel.app/api?username=DustNerd&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dusenerd&theme=prussian" width="97%" height="auto" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dusenerd&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dusenerd&theme=prussian" width="48%" height="auto" style="display: inline;" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dusenerd&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dusenerd&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
+</div>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dusenerd&bg_color=auto&color=ffd580&line=65f207&point=2c42ed&area=true&hide_border=fals" width="96%" height="auto" >
+</p>
+
+<p align="center"><img src="https://repobeats.axiom.co/api/embed/5708c01fc2970fa6f945a069e73acc7f9d70d90a.svg"/> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dusenerd&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="dusenerd"/></p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dusenerd&theme=radical&layout=pie"/> </p><br>
 The breadth of knowledge determines the width of the attack's surface.<br>
 知识面，决定看到的攻击面有多么的广。<br>
 The depth of knowledge determines the severity of the attack's impact.<br>
